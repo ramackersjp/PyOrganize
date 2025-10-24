@@ -74,5 +74,11 @@ yay -S pyorganize
 ```
 Usage on arch command: pyorganize ~/Pictures 
 
+## Pip install:
+```
+pip install pyorganize==1.0.0
+```
+Usage on pip command: pyorganize ~/Pictures 
+
 Keep your files tidy with PyOrganize 🎉
 
