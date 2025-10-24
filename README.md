@@ -61,7 +61,13 @@ This command will:
 3. Run the script with a target folder:
    ```bash
    python3 main.py /path/to/your/folder
-   ```
+   ``
+## Or direct:
+```
+git clone https://github.com/ramackersjp/PyOrganize.git
+cd ~/PyOrganize
+chmod +x main.py
+````
 
 Keep your files tidy with PyOrganize 🎉
 
