@@ -1,4 +1,4 @@
-# TidyPy
+# PyOrganize
 
 PyOrganize  is a simple Python script that automatically organizes files in a specified directory into subfolders based on their file types. Keep your directories clean and structured with minimal effort!
 
