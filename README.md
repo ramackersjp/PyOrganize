@@ -69,7 +69,8 @@ cd ~/PyOrganize
 chmod +x main.py
 ````
 ## Arch install:
-yay -S pyorganize
-
+```
+yay -S pyorganize 
+```
 Keep your files tidy with PyOrganize 🎉
 
