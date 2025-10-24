@@ -68,6 +68,8 @@ git clone https://github.com/ramackersjp/PyOrganize.git
 cd ~/PyOrganize
 chmod +x main.py
 ````
+## Arch install:
+yay -S pyorganize
 
 Keep your files tidy with PyOrganize 🎉
 
