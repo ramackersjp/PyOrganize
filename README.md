@@ -70,7 +70,9 @@ chmod +x main.py
 ````
 ## Arch install:
 ```
-yay -S pyorganize 
+yay -S pyorganize
 ```
+Usage on arch command: pyorganize ~/Pictures 
+
 Keep your files tidy with PyOrganize 🎉
 
